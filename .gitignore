@@ -1,4 +1,6 @@
 venv/
-dificuldades.txt
-teste.py
+__pycache__/
+*.pyc
 .env
+.idea/
+.vscode/
